@@ -1,4 +1,4 @@
-# Mini Project
+# Project Client Term deposit subscription
 
 ## Business Problem
 The objective of the classification is to identify clients who will subscribe (yes/no) for a term deposit. (Variable y: Target).
